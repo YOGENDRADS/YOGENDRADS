@@ -26,7 +26,7 @@ I'm Learn Core Java, frontend development, SQL, data structures, and algorithms.
 
 ## 📫 Connect with Me
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/yogendra-yadav-269692273/)) 
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/yogendra-yadav-269692273/)
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter.png" />](https://twitter.com/) 
 [<img align="left" alt="Email" width="22px" src="https://img.icons8.com/color/48/000000/gmail.png" />](yogiads74@gmail.com)
 
