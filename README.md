@@ -7,7 +7,7 @@ I'm Yogendra Kumar, a final year MCA student with a passion for coding and explo
 ## 🔧 Skills
 
 - **Languages:** Java, C, JavaScript
-- **Web Development:** HTML, CSS, JavaScript, JQuery, ReactJs, NodejS
+- **Web Development:** HTML, CSS, JavaScript, JQuery, ReactJs, NodeJs
 - **Frameworks:** Bootstrap 5, Tailwind css, Django
 - **Database:** MySQL, SQLite
 - **Tools:** Git, VS Code, Eclipse
