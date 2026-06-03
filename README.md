@@ -12,14 +12,6 @@ I'm Yogendra Kumar, a final year MCA student with a passion for coding and explo
 - **Database:** MySQL, SQLite
 - **Tools:** Git, VS Code, Eclipse
 
-
-
-## 📚 Learning Journey
-
-I'm Learn Core Java, frontend development, SQL, data structures, and algorithms. Let's grow and learn together!
-
-
-
 ## 📫 Connect with Me
 
 
